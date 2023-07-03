@@ -1,0 +1,51 @@
+
+.design{
+    /* margin-top:40px; */
+    background-color: #ffffff;
+}
+
+.form-register{
+    /* border: 1px solid black; */
+    margin-left: 40px;
+    width:600px;
+    margin-top:40px;
+    padding: 20px;
+}
+.form-login{
+    border: 1px solid black;
+    margin-left: 20px;
+    width:600px;
+    margin-top:80px;
+    padding: 50px;
+}
+.error,.back-error,.jquery-error{
+    color:red;
+}
+th {
+    text-transform: uppercase;
+}
+.back{
+    background-color: rgb(225, 229, 233);
+}
+.fa-trash-can{
+    color: rgb(235, 42, 42);
+}
+.fa-pen-to-square {
+    color: green;
+    padding-right: 15px;
+}
+.fa-pen {
+    color: green;
+    padding-left: 15px;
+}
+.fa-facebook{
+    margin-right: 20px;
+}
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    margin-right:20px;
+  }
